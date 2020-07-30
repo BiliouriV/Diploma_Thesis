@@ -1,5 +1,5 @@
 # Diploma_Thesis
-Implementation of the Tracking Algorithm of a Visual SLAM System on FPGAs
+# Implementation of the Tracking Algorithm of a Visual SLAM System on FPGAs
 
 This Dimploma Thesis was conducted within the curriculum of the Department of Electrical and Computer Engineering, University of Thessaly, Greece. 
 
