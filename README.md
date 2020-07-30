@@ -3,7 +3,7 @@
 
 This Dimploma Thesis was conducted within the curriculum of the Department of Electrical and Computer Engineering, University of Thessaly, Greece. 
 
-In this repository is included, the hardware implementation and execution of the tracking kernel of KinectFusion algorithm and its latency optimization.
+In this repository are included, the hardware implementation and execution of the tracking kernel of KinectFusion algorithm and its latency optimization.
 The optimizations applied are divided to Precise, Approximate and Multiple Compute Units.
 
 Files Clarification:
