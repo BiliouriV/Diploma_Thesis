@@ -8,10 +8,15 @@ The optimizations applied are divided to Precise, Approximate and Multiple Compu
 
 Files Clarification:
 dipthesis_kfusion_track-arm_results.zip  -->  ARM execution of SLAMbench, SW implementation
+
 dipthesis_kfusion_track-master.zip --> Precise Optimizations of the HW implementation of the TrackingKernel
+
 dipthesis_kfusion_track-Approx.zip --> Precise + Approximate Optimizations of the HW implementation of the Tracking Kernel
+
 dipthesis_kfusion_track-parallelCUs.zip --> Multiple Compute Units application
+
 Biliouri_Viktoria.pdf --> Diploma Thesis Final Report
+
 
 Copyright© 2020 by Biliouri Viktoria
 “The copyright of this thesis rests with the authors.No quotations from it should be published without the authors’ prior written consent and information derived from it should be acknowledged”
