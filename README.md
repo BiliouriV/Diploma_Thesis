@@ -18,6 +18,8 @@ dipthesis_kfusion_track-parallelCUs.zip --> Multiple Compute Units application
 
 Biliouri_Viktoria.pdf --> Diploma Thesis Final Report
 
+Diploma Thesis Presentation
+
 
 Copyright© 2020 by Biliouri Viktoria                                                                                                
 “The copyright of this thesis rests with the authors.No quotations from it should be published without the authors’ prior written consent and information derived from it should be acknowledged”
